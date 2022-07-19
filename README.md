@@ -16,4 +16,4 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-[react]: https://reactjs.org/
+[vue]: https://vuejs.org/
