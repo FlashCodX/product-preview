@@ -1,6 +1,6 @@
-# Time Tracking Dashboard
+# Product Preview
 
-# ![preview](./src/assets/screenshot.png)
+# ![preview](./src/assets/screenshots/screenshot.png)
 
 A challenge made for Frontend Mentor.
 
