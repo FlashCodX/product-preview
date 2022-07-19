@@ -2,7 +2,7 @@
   <main class="container">
     <div class="card">
       <div class="imageContainer">
-        <img src="" alt="" />
+        <img src="./assets/image-product-desktop.jpg" alt="product" />
       </div>
       <div class="content">
         <p>Perfume</p>
@@ -18,7 +18,7 @@
         </div>
         <button>
           <img src="./assets/icon-cart.svg" alt="card" />
-          <p>Add to Cart</p>
+          Add to Cart
         </button>
       </div>
     </div>

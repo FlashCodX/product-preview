@@ -105,11 +105,8 @@ button {
   justify-content: center;
   gap: 1rem;
   color: white;
+  font-weight: bold;
   background: var(--button-color);
-}
-
-button p {
-  font-weight: 700;
 }
 
 button:hover {
